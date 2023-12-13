@@ -1,4 +1,4 @@
-// 65130500073, Watchara Santawee
+
 class Movies {
   constructor() {
     this.movies = []
